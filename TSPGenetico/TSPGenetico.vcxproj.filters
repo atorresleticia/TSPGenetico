@@ -21,12 +21,42 @@
     <ClInclude Include="targetver.h">
       <Filter>Header Files</Filter>
     </ClInclude>
+    <ClInclude Include="Cidade.h">
+      <Filter>Source Files</Filter>
+    </ClInclude>
+    <ClInclude Include="ListaCidades.h">
+      <Filter>Source Files</Filter>
+    </ClInclude>
+    <ClInclude Include="Individuo.h">
+      <Filter>Source Files</Filter>
+    </ClInclude>
+    <ClInclude Include="Populacao.h">
+      <Filter>Source Files</Filter>
+    </ClInclude>
+    <ClInclude Include="Genetico.h">
+      <Filter>Source Files</Filter>
+    </ClInclude>
   </ItemGroup>
   <ItemGroup>
     <ClCompile Include="stdafx.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
     <ClCompile Include="TSPGenetico.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="Cidade.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="ListaCidades.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="Individuo.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="Populacao.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="Genetico.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
   </ItemGroup>
